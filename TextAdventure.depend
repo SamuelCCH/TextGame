@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1753227929 source:c:\codedamnproject\textadventure\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<limits>
+	<ctime>
+	<bits/stdc++.h>
+	<iomanip>
+	"GameManager.h"
+	"Weapon.h"
+	"Player.h"
+	"Enemy.h"
+
+1752696046 c:\codedamnproject\textadventure\gamemanager.h
+
+1753214484 c:\codedamnproject\textadventure\weapon.h
+
+1753225318 c:\codedamnproject\textadventure\player.h
+	<vector>
+
+1753225502 c:\codedamnproject\textadventure\enemy.h
+	"Weapon.h"
+
